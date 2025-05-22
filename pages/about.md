@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Croatian Guitar Duo: Karamazov & Ivković
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+The Croatian Guitar Duo brings together two distinguished classical guitarists, Edin Karamazov and Melita Ivković.
+
+Edin Karamazov, one of today’s most original and respected guitarists and lutenists, is known for his interpretative precision and unique approach to repertoire. His performances feature deep musical analysis, exploratory spirit, and technical mastery. Karamazov has performed in prestigious concert halls worldwide and collaborated with artists like Sting, Andreas Scholl, and Dorothee Oberlinger.
+
+Melita Ivković’s artistic career spans over three decades of concert performances across four continents, numerous recordings, teaching, and directing international festivals. Her interpretations combine virtuosity with deep stylistic understanding. She is also a member of the Zagreb Guitar Quartet and the Dina e Mel project.
+
+Together, they perform works by Haydn, Prokofiev, and Bach (arranged for two guitars by Karamazov), exploring the boundaries of guitar expression from classical elegance and subtle baroque counterpoints to 20th-century expressionism.
