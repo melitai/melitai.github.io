@@ -8,5 +8,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "Croatian Guitar Duo"
+theme:       "portfolio-jekyll-theme"
 description: "Edin Karamazov & Melita Ivković"
 author:      "CGD"
